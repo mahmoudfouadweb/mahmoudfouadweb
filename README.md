@@ -1,6 +1,7 @@
 <h1 align="center">Hi There👋, Mahmoud fouad</h1>
 <h3 align="center">frontend developer</h3>
-<h3 align="left">[frontend developer](https://www.frontendmentor.io/profile/mahmoudfouadweb)</h3>
+<h3 align="left">[frontend developer ] (https://www.frontendmentor.io/profile/mahmoudfouadweb)</h3>
+<h3 align="left">[Twitter ] (https://twitter.com/mah_developer))</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-fouad-ali-914290214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-fouad-ali-914290214" height="30" width="40" /></a>
